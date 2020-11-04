@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>Ccedilla</key>
+    <string>C_cedilla.glif</string>
+    <key>Q</key>
+    <string>Q_.glif</string>
+    <key>Scedilla</key>
+    <string>S_cedilla.glif</string>
+    <key>ccedilla</key>
+    <string>ccedilla.glif</string>
+    <key>cedilla</key>
+    <string>cedilla.glif</string>
+    <key>eth</key>
+    <string>eth.glif</string>
+    <key>partialdiff</key>
+    <string>partialdiff.glif</string>
+    <key>scedilla</key>
+    <string>scedilla.glif</string>
+    <key>section</key>
+    <string>section.glif</string>
+  </dict>
+</plist>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>Ccedilla</key>
+    <string>C_cedilla.glif</string>
+    <key>G.alt</key>
+    <string>G_.alt.glif</string>
+    <key>Q</key>
+    <string>Q_.glif</string>
+    <key>Scedilla</key>
+    <string>S_cedilla.glif</string>
+    <key>Uogonek</key>
+    <string>U_ogonek.glif</string>
+    <key>Uogonek.alt</key>
+    <string>U_ogonek.alt.glif</string>
+    <key>ae</key>
+    <string>ae.glif</string>
+    <key>ampersand</key>
+    <string>ampersand.glif</string>
+    <key>ccedilla</key>
+    <string>ccedilla.glif</string>
+    <key>cedilla</key>
+    <string>cedilla.glif</string>
+    <key>e</key>
+    <string>e.glif</string>
+    <key>eogonek</key>
+    <string>eogonek.glif</string>
+    <key>eth</key>
+    <string>eth.glif</string>
+    <key>m</key>
+    <string>m.glif</string>
+    <key>oe</key>
+    <string>oe.glif</string>
+    <key>partialdiff</key>
+    <string>partialdiff.glif</string>
+    <key>scedilla</key>
+    <string>scedilla.glif</string>
+    <key>section</key>
+    <string>section.glif</string>
+    <key>sterling</key>
+    <string>sterling.glif</string>
+    <key>uni20B9</key>
+    <string>uni20B_9.glif</string>
+  </dict>
+</plist>

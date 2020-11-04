@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.1">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="300" maximum="700" default="400">
+      <map input="300" output="65"/>
+      <map input="400" output="87"/>
+      <map input="700" output="120"/>
+    </axis>
+  </axes>
+  <sources>
+    <source filename="InriaSans-Light.ufo" name="Inria Sans Light" familyname="Inria Sans" stylename="Light">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="65"/>
+      </location>
+    </source>
+        <source filename="InriaSans-Regular.ufo" name="Inria Sans Regular" familyname="Inria Sans" stylename="Regular">
+      <location>
+        <dimension name="Weight" xvalue="87"/>
+      </location>
+    </source>
+    <source filename="InriaSans-Bold.ufo" name="Inria Sans Bold" familyname="Inria Sans" stylename="Bold">
+      <location>
+        <dimension name="Weight" xvalue="120"/>
+      </location>
+    </source>
+  </sources>  
+  <instances>
+    <instance name="Inria Sans Light" familyname="Inria Sans" stylename="Light" filename="instance_ufos/InriaSans-Light.ufo">
+      <location>
+        <dimension name="Weight" xvalue="65"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Inria Sans Regular" familyname="Inria Sans" stylename="Regular" filename="instance_ufos/InriaSans-Regular.ufo">
+      <location>
+        <dimension name="Weight" xvalue="87"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Inria Sans Bold" familyname="Inria Sans" stylename="Bold" filename="instance_ufos/InriaSans-Bold.ufo" stylemapfamilyname="Inria Sans" stylemapstylename="bold">
+      <location>
+        <dimension name="Weight" xvalue="120"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+  </instances>
+</designspace>
